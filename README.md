@@ -1,2 +1,2 @@
 # sales_analysis
-THis sample analysis
+I supervised this project 
